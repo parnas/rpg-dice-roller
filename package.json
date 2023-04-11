@@ -67,7 +67,7 @@
     "vuepress-jsdoc": "^4.3.0"
   },
   "dependencies": {
-    "mathjs": "^11.2.1",
+    "mathjs": "^11.8.0",
     "random-js": "^2.1.0"
   },
   "engines": {
